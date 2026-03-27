@@ -1,0 +1,11 @@
+name: InvTotem
+version: '1.0.0'
+main: com.coderxi.plugin.invTotem.InvTotem
+api-version: '1.21'
+website: https://github.com/coderxi-minecraft-plugins/InvTotem
+
+commands:
+  invtotem:
+    description: InvTotem Main Command
+    permission: invtotem.admin
+    usage: /invtotem reload

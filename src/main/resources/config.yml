@@ -1,0 +1,9 @@
+give-effects:
+  - "regeneration,200,1"
+  - "absorption,200,3"
+  - "fire_resistance,200,0"
+  - "resistance,200,1"
+void-protect-command: "spawn"
+play-particle-and-sound: true
+send-message: '<yellow>不死图腾已激活</yellow>'
+send-actionbar: '<yellow>不死图腾已激活</yellow>'
